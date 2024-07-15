@@ -35,13 +35,8 @@ pip install numpy==1.23.5 scikit-learn==1.2.2 joblib
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/loan-approval-prediction.git
+    git clone https://github.com/Ks-Aech/LoanPredictorApp.git
     cd loan-approval-prediction
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ### Usage
@@ -88,6 +83,7 @@ print("Loan approval prediction:", prediction)
 ```
 loan-approval-prediction/
 ├── app.py
+├── std_sclaer.bin
 ├── loan_classifier.joblib
 ├── requirements.txt
 └── README.md
@@ -97,6 +93,7 @@ loan-approval-prediction/
 - `loan_classifier.joblib`: Serialized machine learning model.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: Project documentation.
+- `std_scaler.bi`: Standar scaler used in the model development
 
 ## Contributing
 
