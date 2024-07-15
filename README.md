@@ -1,4 +1,3 @@
-Sure! Below is a sample README file for your Loan Approval Prediction Model project:
 
 ---
 
