@@ -14,6 +14,8 @@ This project involves developing a machine learning model to predict loan approv
 - Model serialization with Joblib for deployment
 - Real-time loan approval predictions
 
+## Demo of the app : https://huggingface.co/spaces/KsAech/LoanClassifier
+
 ## Getting Started
 
 ### Prerequisites
