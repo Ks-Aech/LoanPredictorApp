@@ -111,4 +111,3 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 
 ---
 
-Feel free to modify this template to better suit your project's specific details and requirements.
